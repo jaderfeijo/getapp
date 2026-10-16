@@ -1,0 +1,7 @@
+#!/bin/sh
+# getapp launcher: finds the package next to this script (installed under <prefix>/lib/getapp, or in the source tree).
+here=$(dirname "$(readlink -f "$0")")
+for lib in "$here/../lib/getapp-py" "$here/../lib"; do
+  [ -d "$lib/getapp" ] && { PYTHONPATH="$lib${PYTHONPATH:+:$PYTHONPATH}"; export PYTHONPATH; break; }
+done
+exec python3 -m getapp "$@"

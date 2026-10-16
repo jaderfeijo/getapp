@@ -1,0 +1,94 @@
+# name<TAB>url<TAB>description  (one web app per line; lines starting with # are ignored)
+Gmail	https://mail.google.com	Google's e-mail
+Google Calendar	https://calendar.google.com	Calendar and scheduling
+Google Drive	https://drive.google.com	Cloud file storage
+Google Docs	https://docs.google.com	Online word processor
+Google Sheets	https://sheets.google.com	Online spreadsheets
+Google Slides	https://slides.google.com	Online presentations
+Google Meet	https://meet.google.com	Video meetings
+Google Maps	https://maps.google.com	Maps and directions
+Google Photos	https://photos.google.com	Photo library
+Google Messages	https://messages.google.com	SMS and chat from your phone
+Google Keep	https://keep.google.com	Notes and lists
+Google Translate	https://translate.google.com	Translate text and documents
+YouTube	https://www.youtube.com	Video streaming
+YouTube Music	https://music.youtube.com	Music streaming
+Spotify	https://open.spotify.com	Music streaming
+SoundCloud	https://soundcloud.com	Music and audio sharing
+Netflix	https://www.netflix.com	Movies and series
+Prime Video	https://www.primevideo.com	Amazon's video streaming
+Disney+	https://www.disneyplus.com	Disney, Pixar, Marvel and Star Wars
+Twitch	https://www.twitch.tv	Live game streaming
+WhatsApp	https://web.whatsapp.com	Messaging
+Telegram	https://web.telegram.org	Messaging
+Messenger	https://www.messenger.com	Facebook Messenger
+Discord	https://discord.com/app	Chat for communities
+Slack	https://app.slack.com	Team chat
+Microsoft Teams	https://teams.microsoft.com	Chat and meetings
+Zoom	https://app.zoom.us	Video meetings
+Skype	https://web.skype.com	Calls and chat
+Outlook	https://outlook.office.com	Microsoft e-mail and calendar
+Office	https://www.office.com	Word, Excel and PowerPoint online
+OneDrive	https://onedrive.live.com	Microsoft cloud storage
+Proton Mail	https://mail.proton.me	Encrypted e-mail
+Proton Drive	https://drive.proton.me	Encrypted cloud storage
+Fastmail	https://app.fastmail.com	E-mail, calendar and contacts
+HEY	https://app.hey.com	E-mail from 37signals
+Basecamp	https://launchpad.37signals.com	Project management
+Notion	https://www.notion.so	Notes, docs and databases
+Evernote	https://www.evernote.com/client/web	Notes
+Todoist	https://app.todoist.com	To-do lists
+Trello	https://trello.com	Kanban boards
+Asana	https://app.asana.com	Work management
+Linear	https://linear.app	Issue tracking
+Figma	https://www.figma.com	Collaborative design
+Canva	https://www.canva.com	Graphic design
+Excalidraw	https://excalidraw.com	Whiteboard sketching
+Miro	https://miro.com/app	Online whiteboard
+draw.io	https://app.diagrams.net	Diagrams
+GitHub	https://github.com	Code hosting
+GitLab	https://gitlab.com	Code hosting and CI
+Bitbucket	https://bitbucket.org	Code hosting
+Stack Overflow	https://stackoverflow.com	Programming Q&A
+Hacker News	https://news.ycombinator.com	Tech news
+Reddit	https://www.reddit.com	Communities and discussion
+X	https://x.com	Social network
+Bluesky	https://bsky.app	Social network
+Mastodon	https://mastodon.social	Social network
+LinkedIn	https://www.linkedin.com	Professional network
+Facebook	https://www.facebook.com	Social network
+Instagram	https://www.instagram.com	Photo sharing
+Pinterest	https://www.pinterest.com	Visual bookmarks
+ChatGPT	https://chatgpt.com	AI assistant
+Claude	https://claude.ai	AI assistant
+Gemini	https://gemini.google.com	AI assistant
+Perplexity	https://www.perplexity.ai	AI search
+Copilot	https://copilot.microsoft.com	AI assistant
+Wikipedia	https://www.wikipedia.org	Encyclopedia
+Amazon	https://www.amazon.com	Online shopping
+eBay	https://www.ebay.com	Online marketplace
+PayPal	https://www.paypal.com	Payments
+Wise	https://wise.com	International money transfers
+Airbnb	https://www.airbnb.com	Stays and experiences
+Booking.com	https://www.booking.com	Hotels and travel
+Uber	https://m.uber.com	Rides
+Duolingo	https://www.duolingo.com	Language learning
+Coursera	https://www.coursera.org	Online courses
+Khan Academy	https://www.khanacademy.org	Free lessons
+Kindle Cloud Reader	https://read.amazon.com	Read Kindle books
+Audible	https://www.audible.com	Audiobooks
+Goodreads	https://www.goodreads.com	Book tracking
+Weather.com	https://weather.com	Forecasts
+Bitwarden	https://vault.bitwarden.com	Password manager
+1Password	https://my.1password.com	Password manager
+Dropbox	https://www.dropbox.com	Cloud file storage
+WeTransfer	https://wetransfer.com	Send large files
+Cloudflare	https://dash.cloudflare.com	Domains and CDN
+Vercel	https://vercel.com/dashboard	Hosting for web apps
+Netlify	https://app.netlify.com	Hosting for web apps
+AWS Console	https://console.aws.amazon.com	Amazon Web Services
+Google Cloud Console	https://console.cloud.google.com	Google Cloud
+Azure Portal	https://portal.azure.com	Microsoft Azure
+Excel Online	https://www.office.com/launch/excel	Spreadsheets
+Word Online	https://www.office.com/launch/word	Word processor
+PowerPoint Online	https://www.office.com/launch/powerpoint	Presentations
