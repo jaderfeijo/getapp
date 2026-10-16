@@ -18,6 +18,7 @@ already installed. Press Enter to install. Inspired by Omarchy's package picker,
 On any Debian, Ubuntu, Mint, Pop!_OS … machine, from a checkout of this repository:
 
 ```
+git clone https://github.com/jaderfeijo/getapp.git && cd getapp
 ./install.sh --dry-run        # see what it would do
 ./install.sh                  # installs getapp for your user into ~/.local (apt-installs fzf and python3 if missing)
 ```
