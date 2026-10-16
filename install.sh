@@ -110,7 +110,7 @@ Comment=Search and install apps from apt, Flatpak, Snap and the web in one place
 Exec=$BIN
 Icon=system-software-install
 Terminal=true
-Categories=System;PackageManager;
+Categories=System;Settings;PackageManager;
 Keywords=install;app;apt;flatpak;snap;web;package;software;
 ENTRY
   $PSUDO install -m 644 "$tmp" "$ENTRY"; rm -f "$tmp"
