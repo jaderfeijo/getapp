@@ -1,5 +1,7 @@
 # getapp
 
+> Part of [wmodern](https://github.com/jaderfeijo/wmodern), a modern desktop on Window Maker: `wmodern install getapp` installs it and keeps it up to date.
+
 **One fuzzy search for everything you can install on Debian.** Type a few letters and see matches from **apt**,
 **Flatpak** (Flathub), the **Snap Store** and **web apps** in one ranked list, with a details pane and a ✓ on what is
 already installed. Press Enter to install. Inspired by Omarchy's package picker, built for any Debian-based system.
